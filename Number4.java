@@ -22,5 +22,6 @@ public class Number4 {
         }
 
         System.out.println("Smallest: " + min + ", Largest: " + max);
+        
     }
 }
